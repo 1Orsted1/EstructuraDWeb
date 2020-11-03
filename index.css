@@ -1,0 +1,21 @@
+body{
+  background-color:#686d76;
+  color: #19d3da;
+}
+.bakground{
+  background-color: #EEEEEE;
+}
+.container-fluid{
+  /*background-color: #2ba6cb;*/
+  padding: 0 90;
+}
+.chico{
+  width: 38px;
+}
+.chara{
+  background-color: black;
+  color: red;
+  font-weight: 800;
+}
+
+.mark{background-color: #373a40;}
